@@ -1,2 +1,2 @@
 # cleo
-big project here soon, maybe
+A discord bot that queries the Google Books API.
